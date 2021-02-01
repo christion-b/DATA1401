@@ -9,7 +9,7 @@
 **Position Title:** Student  
 **Course Webpage:** [cdslab.org/DSP2021S](https://www.cdslab.org/DSP2021S)  
 **Photo:** 
-![](./arkansas.jpg)
+![](./profile_pic.jpg)
 
 ## Description of the project's content
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
