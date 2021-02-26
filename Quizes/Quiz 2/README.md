@@ -18,9 +18,9 @@
 
 7) ABC is an ancestor of Python
 
-8) Syntax: name = "christion'
-   Logic: saying 3>1 to output your value
-   Overflow: Loading a 64-bit number into a 32-bit value
+8) **Syntax:** name = "christion'
+   **Logic:** saying 3>1 to output your value
+   **Overflow:** Loading a 64-bit number into a 32-bit value
    
 9) Resource error
 
