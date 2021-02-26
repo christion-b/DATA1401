@@ -8,9 +8,9 @@
     b) **3rd Generation:** Fortran, C, C++
        **4th Generation:** MATLAB, Python, R
        
-4) **70's:** C, MATLAB
-   **80's:** C++
-   **90's:** Python, R
+4) **70's:** C, MATLAB  
+   **80's:** C++  
+   **90's:** Python, R  
 
 5) C-Shell
 
