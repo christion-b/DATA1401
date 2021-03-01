@@ -8,9 +8,9 @@
     b) **3rd Generation:** Fortran, C, C++
        **4th Generation:** MATLAB, Python, R
        
-4) **70's:** C, MATLAB
-   **80's:** C++
-   **90's:** Python, R
+4) **70's:** C, MATLAB  
+   **80's:** C++  
+   **90's:** Python, R  
 
 5) C-Shell
 
@@ -18,9 +18,9 @@
 
 7) ABC is an ancestor of Python
 
-8) Syntax: name = "christion'
-   Logic: saying 3>1 to output your value
-   Overflow: Loading a 64-bit number into a 32-bit value
+8) **Syntax:** name = "christion'
+   **Logic:** saying 3>1 to output your value
+   **Overflow:** Loading a 64-bit number into a 32-bit value
    
 9) Resource error
 
